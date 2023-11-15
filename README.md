@@ -10,3 +10,6 @@
 제작 일자: 2023. 11. 09~ 2023. 11. 13
 작동 영상 : 
 https://youtu.be/kuZxaoBNhI0 
+<p align="center">
+  <img src="https://github.com/Matilda0730/goorm5_CRUD_App/assets/140938382/6ba9aa46-a268-477c-8795-2fc3c4dffed7">
+</p>
